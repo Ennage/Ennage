@@ -1,5 +1,8 @@
-# 👾☯️🤍🌼⭐️
+# 🍥🌸🌷🍀💚
 
+## ˚ ༘`✦ ˑ ִֶ 𓂃⊹ About Me ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
+- 🎓 BSCS student @ Batangas State University
+- 💻  Currently learning C, C++ & Python
 
 
 <!--
