@@ -1,9 +1,12 @@
-# 🍥🌸🌷🍀💚
+# 🍥🌸🌷🍀
 
-˚ ༘`✦ ˑ ִֶ 𓂃⊹ About Me ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
-- 🎓 BSCS student @ Batangas State University
-- 💻  Currently learning C, C++ & Python
+## ⚝→  bio  ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
+- 🎓 computer science student @ Batangas State University 
+- 💻 currently learning Python 🐍
 
+## ☘︎→  kit  ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
+- 📝 languages encountered: C, C++, Python
+- ⚙️ visual studio code
 
 <!--
 **Ennage/Ennage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
