@@ -10,6 +10,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennage&layout=compact&theme=neon&bg_color=00000000&card_width=450&langs_count=5" height="125px"/>
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ennage&hide=prs&show_icons=true&theme=neon&bg_color=00000000&hide_title=true&rank_icon=github&include_all_commits=true&card_width=500" height="125px"/>
+    </td>
+    <td width="20px"></td> <!-- This creates a gap -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennage&layout=compact&theme=neon&bg_color=00000000&card_width=450&langs_count=5" height="125px"/>
+    </td>
+  </tr>
+</table>
+
 
 ## **⚝→  bio  ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆**
 - 🎓 computer science student 
