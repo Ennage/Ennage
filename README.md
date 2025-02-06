@@ -1,6 +1,9 @@
-# 🤍🍥🌸🌷🍀
-❛❛ The great thing about this world... is that it is always changing. ❜❜  
-*— The Adventure of the Engineer’s Thumb*
+<h1 align="center" style="color:#070a0d;"> 🤍🍥🌸🌷🍀 </h1>
+
+<p align="center">
+  <i style="font-family: 'Press Start 2P', cursive; font-size: 36px; color: #85caea;">❛❛ The great thing about this world... is that it is always changing. ❜❜</i><br>
+  <b style="font-family: 'Press Start 2P', cursive; font-size: 24px; color: #f0c6bc;">— The Adventure of the Engineer’s Thumb</b>
+</p>
 
 ## **⚝→  bio  ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆**
 - 🎓 computer science student @ Batangas State University 
