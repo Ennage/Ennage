@@ -7,10 +7,9 @@
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api?username=Ennage&hide=prs&show_icons=true&theme=neon&bg_color=00000000&hide_title=true&rank_icon=github&include_all_commits=true&card_width=500;)](https://github.com/Ennage)
 </p>
 
-<!--
 # <p align=center> ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ennage&layout=compact&theme=neon)
 </p>
--->
+
 
 ## **⚝→  bio  ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆**
 - 🎓 computer science student 
