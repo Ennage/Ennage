@@ -1,4 +1,4 @@
-<h1 align="center"> 🤍🍥🌸🌷🍀 </h1>
+<h1 align="center">🤍🍥🌸🌷🍀</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=31&duration=4000&pause=3000&color=87E8C1&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%E2%9D%9B%E2%9D%9B+The+great+thing+about+this+world...+;is+that+it+is+always+changing.+%E2%9D%9C%E2%9D%9C;%E3%80%80;%E2%80%94+The+Adventure+of+the+Engineer%E2%80%99s+Thumb" alt="Typing SVG" /></a>
@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ennage&hide=prs&show_icons=true&theme=neon&bg_color=00000000&hide_title=true&rank_icon=github&include_all_commits=true&card_width=500" height="125px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennage&layout=compact&theme=neon&bg_color=00000000&card_width=500&langs_count=5" height="125px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennage&layout=compact&theme=neon&bg_color=00000000&card_width=450&langs_count=5" height="125px"/>
 </p>
-
 
 
 ## **⚝→  bio  ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆**
