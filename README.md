@@ -1,9 +1,9 @@
 <h1 align="center" style="color:#070a0d;"> 🤍🍥🌸🌷🍀 </h1>
 
 <p align="center">
-  <i style="font-family: 'Press Start 2P', cursive; font-size: 36px; color: #85caea;">❛❛ The great thing about this world... is that it is always changing. ❜❜</i><br>
-  <b style="font-family: 'Press Start 2P', cursive; font-size: 24px; color: #f0c6bc;">— The Adventure of the Engineer’s Thumb</b>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=31&duration=4000&pause=3000&color=87E8C1&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%E2%9D%9B%E2%9D%9B+The+great+thing+about+this+world...+;is+that+it+is+always+changing.+%E2%9D%9C%E2%9D%9C;%E3%80%80;%E2%80%94+The+Adventure+of+the+Engineer%E2%80%99s+Thumb" alt="Typing SVG" /></a>
 </p>
+
 
 ## **⚝→  bio  ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆**
 - 🎓 computer science student 
