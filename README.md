@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ennage&hide=prs&show_icons=true&theme=neon&bg_color=00000000&hide_title=true&rank_icon=github&include_all_commits=true&card_width=300" height="125px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennage&layout=compact&theme=neon&bg_color=00000000&card_width=225&langs_count=5" height="125px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennage&layout=compact&theme=neon&bg_color=00000000&card_width=225" height="125px"/>
 </p>
 
 ## **⚝→  bio  ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆**
